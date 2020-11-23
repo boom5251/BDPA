@@ -1,0 +1,15 @@
+D:\Учеба\3 сем\АООД\Лаб\Lab1\bin\Debug\Lab1.exe.config
+D:\Учеба\3 сем\АООД\Лаб\Lab1\bin\Debug\Lab1.exe
+D:\Учеба\3 сем\АООД\Лаб\Lab1\bin\Debug\Lab1.pdb
+D:\Учеба\3 сем\АООД\Лаб\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+D:\Учеба\3 сем\АООД\Лаб\Lab1\obj\Debug\MainWindow.g.cs
+D:\Учеба\3 сем\АООД\Лаб\Lab1\obj\Debug\App.g.cs
+D:\Учеба\3 сем\АООД\Лаб\Lab1\obj\Debug\Lab1_MarkupCompile.cache
+D:\Учеба\3 сем\АООД\Лаб\Lab1\obj\Debug\Lab1_MarkupCompile.lref
+D:\Учеба\3 сем\АООД\Лаб\Lab1\obj\Debug\MainWindow.baml
+D:\Учеба\3 сем\АООД\Лаб\Lab1\obj\Debug\Lab1.g.resources
+D:\Учеба\3 сем\АООД\Лаб\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+D:\Учеба\3 сем\АООД\Лаб\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+D:\Учеба\3 сем\АООД\Лаб\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\Учеба\3 сем\АООД\Лаб\Lab1\obj\Debug\Lab1.exe
+D:\Учеба\3 сем\АООД\Лаб\Lab1\obj\Debug\Lab1.pdb
