@@ -1,0 +1,45 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly Lab4, Version=1.0.*, Culture=Инвариантный язык (Инвариантная страна): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Item: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Int32 Count 'get set' : 
+    System.String Name 'get set' : 
+  Methods:
+    get_Name(): PrivateScope, Public, HideBySig, SpecialName
+    set_Name(String): PrivateScope, Public, HideBySig, SpecialName
+    get_Count(): PrivateScope, Public, HideBySig, SpecialName
+    set_Count(Int32): PrivateScope, Public, HideBySig, SpecialName
+Class Order: AutoLayout, AnsiClass, Class, Public, Sealed, Serializable, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Int32 Amount 'get set' : 
+    System.Collections.Generic.List`1[Item] Goods 'get ' : 
+    System.String FullName 'get set' : 
+    Int32 Number 'get set' : 
+  Methods:
+    get_Number(): PrivateScope, Public, HideBySig, SpecialName
+    set_Number(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_FullName(): PrivateScope, Public, HideBySig, SpecialName
+    set_FullName(String): PrivateScope, Public, HideBySig, SpecialName
+    get_Goods(): PrivateScope, Public, HideBySig, SpecialName
+    get_Amount(): PrivateScope, Public, HideBySig, SpecialName
+    set_Amount(Int32): PrivateScope, Public, HideBySig, SpecialName
+Class FileData: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.Xml.Serialization.XmlSerializer Serializer 'get set' : 
+  Methods:
+    get_Serializer(): PrivateScope, Public, HideBySig, SpecialName
+    set_Serializer(XmlSerializer): PrivateScope, Public, HideBySig, SpecialName
+    SaveData(String, List`1): PrivateScope, Public, HideBySig
+    GetData(String): PrivateScope, Public, HideBySig

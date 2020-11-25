@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <Amount>15600</Amount>
+    <Goods>
+      <Item>
+        <Count>2</Count>
+        <Name>джинсы</Name>
+      </Item>
+      <Item>
+        <Count>1</Count>
+        <Name>шапка</Name>
+      </Item>
+      <Item>
+        <Count>1</Count>
+        <Name>кроссовки</Name>
+      </Item>
+    </Goods>
+    <FullName>Куликов Виктор Юрьевич</FullName>
+    <Number>5251</Number>
+  </Order>
+</ArrayOfOrder>
