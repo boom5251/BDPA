@@ -153,7 +153,7 @@ namespace Lab2
 
 
 
-        private static void Combine(params object[] arrays)
+        private static void Combine(params Array[] arrays)
         {
             int finalRowsCount = 0;
 
