@@ -9,7 +9,6 @@ using namespace System::Collections::Generic;
 Order^ GetNewOrder()
 {
     Order^ order = gcnew Order();
-    List<Tuple<String^, int>^>^ list = gcnew List<Tuple<String^, int>^>();
 
     Console::WriteLine("Создайте новую запись: ");
 
