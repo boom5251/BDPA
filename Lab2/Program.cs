@@ -7,6 +7,11 @@ namespace Lab2
     {
         private static void Main(string[] args)
         {
+            Console.Title = "Лабораторная работа по АООД номер 2. Куликов В.Ю. (ИВБО-06-19)";
+            Console.BackgroundColor = ConsoleColor.Black;
+            Console.ForegroundColor = ConsoleColor.Green;
+
+
             try
             {
                 Console.WriteLine("Ведите число n (1 < n <= 100)");
